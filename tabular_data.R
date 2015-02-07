@@ -21,4 +21,12 @@ dput(data, "stats.R")     # write the data
 data2 <- dget("stats.R")  # read the data
 all(data == data2)        # should be TRUE
 
+head(data, 10)  # get first 10 rows.
+tail(data, 10)  # get the last 10 rows.
+
+# Find the teams that gave up more than 25 points per game.
+["Team"][data["PointsPerGame"] > 25
+# Find teams that gave up more than 200 yards per game and had more than 100 penalties.
+["Team"][data["YardsPerGame"] > 200 & data["Penalties"] > 100]
+
 
