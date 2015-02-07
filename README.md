@@ -1,7 +1,8 @@
 # R-Samples by Bill Back
 
-This project was started as a way for me to keep examples of how to do various different things with R.  
-I started it while taking R Programming from Coursera and I plan to continue to update it as I take this
+This repo was started as a way for me to keep examples of how to do various different things with R.  
+
+I started this repo while taking R Programming from Coursera and I plan to continue to update it as I take this
 and follow-on courses as well as personal research and study.  I'm putting it on GitHub in case others
 might find it useful as well.
 
