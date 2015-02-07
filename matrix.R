@@ -55,4 +55,22 @@ dimnames(m) <- list(c("r1", "r2", "r3"), c("c1", "c2"))
 # r3  3  6
 m["r1", "c2"]  # == 4 reference by name instead of index.
 
-
+# matrix multiplication has a special operator.
+m1 <- matrix(1:6, nrow=2, ncol=3)
+#      [,1] [,2] [,3]
+# [1,]    1    3    5
+# [2,]    2    4    6
+m2 <- matrix(1:6, nrow=3, ncol=2)
+#      [,1] [,2]
+# [1,]    1    4
+# [2,]    2    5
+# [3,]    3    6
+m3 <- m1 %*% m2 # results in 2x2 since m1 has 2 rows.
+#      [,1] [,2]
+# [1,]   22   49
+# [2,]   28   64
+m4 <- m2 %*% m1 # results in 3x3 since m2 has 3 rows.
+#      [,1] [,2] [,3]
+# [1,]    9   19   29
+# [2,]   12   26   40
+# [3,]   15   33   51

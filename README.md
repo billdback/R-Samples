@@ -7,14 +7,14 @@ might find it useful as well.
 
 The following files are part of this project:
 
-| File name      | Description                                          |
-| -------------- | ---------------------------------------------------- |
-| vector.R       | Examples of using vectors.                           |
-| list.R         | Examples using lists.                                |
-| matrix.R       | Examples of using matrices.                          |
-| frames.R       | Examples of using data frames.                       |
-| factors.R      | Example of dealing with factors.                     |
-| na.R           | Examples showing how to deal with missing values.    |
-| tabular_data.R | Example using reading and manipulating tabular data. |
+| File name      | Description                                           |
+| -------------- | ----------------------------------------------------- |
+| vector.R       | Examples using vectors.                               |
+| list.R         | Examples using lists.                                 |
+| matrix.R       | Examples using matrices.                              |
+| frames.R       | Examples using data frames.                           |
+| factors.R      | Examples dealing with factors.                        |
+| na.R           | Examples showing how to deal with missing values.     |
+| tabular_data.R | Examples reading and manipulating tabular data.       |
 
 There are some additional data files for use by the scripts.

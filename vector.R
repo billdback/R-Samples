@@ -22,3 +22,8 @@ v[v > 10] # numbers greater than 10
 # 11 12 13 14 15 16 17 18 19 20
 v[v > 5 & v < 15] # value between 5 and 15
 # 6  7  8  9 10 11 12 13 14
+
+# vector operations.  Vectors work over the entire vector.
+v1 <- 1:10 # vector of ten integers.
+v2 <- 1:2  # vector of two integers.
+v1 * v2    # multiply becomes 1*1, 2*2, 3*1, 4*2, etc. 1  4  3  8  5 12  7 16  9 20
