@@ -10,12 +10,13 @@ The following files are part of this project:
 
 | File name      | Description                                           |
 | -------------- | ----------------------------------------------------- |
-| vector.R       | Examples using vectors.                               |
+| basic_stats.R  | Examples calculating basic statistics.                |
+| factors.R      | Examples dealing with factors.                        |
+| frames.R       | Examples using data frames.                           |
 | list.R         | Examples using lists.                                 |
 | matrix.R       | Examples using matrices.                              |
-| frames.R       | Examples using data frames.                           |
-| factors.R      | Examples dealing with factors.                        |
 | na.R           | Examples showing how to deal with missing values.     |
 | tabular_data.R | Examples reading and manipulating tabular data.       |
+| vector.R       | Examples using vectors.                               |
 
 There are some additional data files for use by the scripts.
