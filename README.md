@@ -6,6 +6,7 @@ and follow-on courses as well as personal research and study.  I'm putting it on
 might find it useful as well.
 
 The following files are part of this project:
+
 | File name      | Description                                          |
 | -------------- | ---------------------------------------------------- |
 | vector.R       | Examples of using vectors.                           |
