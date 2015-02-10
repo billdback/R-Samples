@@ -8,15 +8,16 @@ might find it useful as well.
 
 The following files are part of this project:
 
-| File name      | Description                                           |
-| -------------- | ----------------------------------------------------- |
-| basic_stats.R  | Examples calculating basic statistics.                |
-| factors.R      | Examples dealing with factors.                        |
-| frames.R       | Examples using data frames.                           |
-| list.R         | Examples using lists.                                 |
-| matrix.R       | Examples using matrices.                              |
-| na.R           | Examples showing how to deal with missing values.     |
-| tabular_data.R | Examples reading and manipulating tabular data.       |
-| vector.R       | Examples using vectors.                               |
+| File name         | Description                                           |
+| ----------------- | ----------------------------------------------------- |
+| basic_stats.R     | Examples calculating basic statistics.                |
+| control_structs.R | Examples of control structures for programming R.     |
+| factors.R         | Examples dealing with factors.                        |
+| frames.R          | Examples using data frames.                           |
+| list.R            | Examples using lists.                                 |
+| matrix.R          | Examples using matrices.                              |
+| na.R              | Examples showing how to deal with missing values.     |
+| tabular_data.R    | Examples reading and manipulating tabular data.       |
+| vector.R          | Examples using vectors.                               |
 
 There are some additional data files for use by the scripts.
