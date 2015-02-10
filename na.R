@@ -13,7 +13,7 @@ is.nan(x) # chedk for NaN.  Note that NA is not TRUE.
 # FALSE FALSE  TRUE FALSE FALSE
 
 # Strip out NAs since many functions won't work on missing values.
-NAs <- is.na(x) # find NAs
-x[!NAs]         # remove NAs results: [1] 1 2 5
+x[!is.na(x)]  # remove NAs results: [1] 1 2 5
+
 
 
