@@ -14,6 +14,7 @@ The following files are part of this project:
 | control_structs.R | Examples of control structures for programming R.     |
 | factors.R         | Examples dealing with factors.                        |
 | frames.R          | Examples using data frames.                           |
+| funcs.R           | Examples using functions.                             |
 | list.R            | Examples using lists.                                 |
 | matrix.R          | Examples using matrices.                              |
 | na.R              | Examples showing how to deal with missing values.     |
