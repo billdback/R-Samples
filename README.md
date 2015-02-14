@@ -12,6 +12,7 @@ The following files are part of this project:
 | ----------------- | ----------------------------------------------------- |
 | basic_stats.R     | Examples calculating basic statistics.                |
 | control_structs.R | Examples of control structures for programming R.     |
+| datetime.R        | Examples using date and time.                         |
 | factors.R         | Examples dealing with factors.                        |
 | frames.R          | Examples using data frames.                           |
 | funcs.R           | Examples using functions.                             |
