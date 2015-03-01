@@ -8,8 +8,12 @@ v1to3 <- v[1:3]        # get the firt three value = [1, 2, 3]
 v[-5] 
 # 1  2  3  4  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
 
-
 vc <- as.character(v)  # convert to a character vector ["1", "2", ...]
+
+# sort a vector.
+vs <- c(10:1)  # 10  9  8  7  6  5  4  3  2  1
+vs <- sort(vs)       # 1  2  3  4  5  6  7  8  9 10
+vs <- sort(vs, decreasing=TRUE) # 10  9  8  7  6  5  4  3  2  1
 
 # operations on vectors work on each item.
 v*2                    # multiply each item in the array by 2
