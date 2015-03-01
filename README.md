@@ -10,6 +10,7 @@ The following files are part of this project:
 
 | File name         | Description                                           |
 | ----------------- | ----------------------------------------------------- |
+| apply.R           | Examples using the apply looping methods.             |
 | basic_stats.R     | Examples calculating basic statistics.                |
 | control_structs.R | Examples of control structures for programming R.     |
 | datetime.R        | Examples using date and time.                         |
